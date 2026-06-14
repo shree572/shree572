@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shridhi Gupta</h1>
 
 <h3 align="center">
-Software Engineer • AI Engineer • Full Stack Developer
+Software Engineer
 </h3>
 
 <p align="center">
