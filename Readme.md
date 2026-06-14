@@ -109,7 +109,7 @@ Offline Digital Payment Solution Prototype.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shree572/shree572/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/shree572/shree572/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -131,7 +131,3 @@ Offline Digital Payment Solution Prototype.
 </p>
 
 ---
-
-<p align="center">
-  <i>"Building scalable software today, engineering intelligent systems for tomorrow."</i>
-</p>
