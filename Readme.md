@@ -49,15 +49,6 @@ Software Engineer • AI Engineer • Full Stack Developer
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shree572/shree572/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
