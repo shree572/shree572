@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="350"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Shridhi Gupta</h1>
 
 <h3 align="center">
