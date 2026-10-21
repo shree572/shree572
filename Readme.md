@@ -5,7 +5,7 @@ Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=550%2B+DSA+Problems+Solved;AI+%7C+Backend+%7C+Full+Stack;Building+Scalable+Software+Systems;RAG+%7C+Vector+Search+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=1030%2B+DSA+Problems+Solved;AI+%7C+Backend+%7C+Full+Stack;Building+Scalable+Software+Systems;RAG+%7C+Vector+Search+%7C+Automation" />
 </p>
 
 ---
