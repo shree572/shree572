@@ -13,7 +13,7 @@ Software Engineer
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (AI/ML) | CGPA: **9.27**
-* 🧠 Solved **550+ DSA Problems**
+* 🧠 Solved **1030+ DSA Problems**
 * 🤖 Building AI Systems, RAG Pipelines & Full-Stack Applications
 * 📄 Author of a Research Paper on Agentic AI
 * 💼 Former Software Automation Engineer Intern
@@ -50,5 +50,5 @@ Software Engineer
 <p align="center">
   <a href="https://github.com/shree572">GitHub</a> •
   <a href="https://linkedin.com/in/shridhi-gupta-3826s">LinkedIn</a> •
-  <a href="mailto:guptashridhi11@gmail.com">Email</a>
+  <a href="mailto:shreegupta572@gmail.com">Email</a>
 </p>
